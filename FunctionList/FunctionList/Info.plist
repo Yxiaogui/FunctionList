@@ -60,5 +60,15 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSCameraUsageDescription</key>
+    <string>允许使用相机</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>在使用期间获取位置信息</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>运行使用麦克风</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>写入相册视频</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>此App会在上传头像图片服务中访问您的相机权限</string>
 </dict>
 </plist>
